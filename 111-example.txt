@@ -1,6 +1,6 @@
 using System;
 // paste into main method
     {
-      Console.WriteLine(“hello,Hope to you Nice Day!”);
+      Console.WriteLine(“hello,Hope to you Happy Day!”);
     }
   
